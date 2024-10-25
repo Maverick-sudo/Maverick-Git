@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Encryptedkvng
+- 👋 Hi, I’m @Maverick
 - 👀 I’m interested in Coding, Trading, & sports.
 - 🌱 I’m currently learning Programming Languages
 - 📫 How to reach me ...
