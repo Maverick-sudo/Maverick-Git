@@ -1,9 +1,5 @@
 - 👋 Hi, I’m @Maverick
-- 👀 I’m interested in Coding, Trading, & sports.
-- 🌱 I’m currently learning Programming Languages
-- 📫 How to reach me ...
-
-<!---
-Encryptedkvng/Encryptedkvng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in Coding, Trading, & Sports.
+- 🌱 A Seasoned IT Professional My expertise lies in SoftwareDev and Cybersecurity Infrastructure, known for my excellent research skills.
+- 💻 Technical competencies include Windows/Linux/Unix/Mac systems
+- As a self-motivated individual, I excel as a team player with a proven ability to work in a group or independently. 
