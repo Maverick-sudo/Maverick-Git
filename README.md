@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Maverick
 - 👀 I’m interested in Coding, Trading, & Sports.
-- 🌱 A Seasoned IT Professional My expertise lies in Network Engineer, Cloud Network Architect and Cybersecurity.
-- 💻 Technical competencies include Windows/Linux/Unix/Mac systems
+- 🌱 A Seasoned IT Professional My expertise lies in Network Engineer, Cloud Engineer & Network Security.
+- 💻 Technical competencies include Cisco/Windows/Linux/Unix/Mac
 - As a self-motivated individual, I excel as a team player with a proven ability to work in a group or independently. 
